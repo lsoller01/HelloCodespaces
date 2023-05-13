@@ -4,3 +4,4 @@
 2. created a repository
 3. created a codespace VM
 4. modify the readme file
+5. work in terminal
